@@ -121,3 +121,5 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Desenvolva uma rotina de treino de 3 dias por semana para um ectomorfo que prefere exercícios com peso livre. O plano deve priorizar exercícios compostos para estimular o crescimento muscular e incluir opções de treino para peito, costas, ombros, braços e pernas. Considere a necessidade de um descanso adequado entre as séries e a importância da progressão da carga.
